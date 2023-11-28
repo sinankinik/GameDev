@@ -13,6 +13,14 @@ export default {
         'custom-green': '#023047',
         'custom-dark-blue': '#070917',
         'custom-lilac': '#6F7DFB',
+        'custom-gradient-dark': '#26308C',
+      },
+      spacing: {
+        '116': '116px',
+      },
+      fontFamily: {
+        'raleway': ['Raleway', 'sans-serif'],
+        'poppins': ['Poppins', 'sans-serif'],
       },
     },
   },
